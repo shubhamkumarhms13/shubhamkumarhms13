@@ -1,4 +1,4 @@
-![logo](https://github.com/shubhamkumarhms13/shubhamkumarhms13/blob/main/GitHub%20Banner.png)
+![logo](https://github.com/shubhamkumarhms13/shubhamkumarhms13/blob/main/MyBanner.png)
 
 <h1 align="center">Hi 👋, I'm Shubham Kumar</h1>
 <h3 align="center">A passionate full stack Java developer from India</h3>
