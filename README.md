@@ -1,19 +1,18 @@
 
 
 <h1 align="center">Hi 👋, I'm Shubham Kumar</h1>
-<h3 align="center">A passionate full stack Java developer from India</h3>
+<h3 align="center">A learner and passionate full stack Java developer</h3>
 
 <img align="right" alt="coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamkumarhms13&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamkumarhms13" /> </p>
 
-- 🔭 I’m currently working at Tata Consultancy Services **as a Java developer**
+- 🔭 I’m currently working at Deloitte USI **as a Full-Stack Developer**
 
 - 🌱 I’m currently learning **SpringBoot, RestAPI and Microservices**
 
-- 💬 Ask me about **Core Java, SQL, AWS**
-
-- 📫 You can reach out to me at **shubhamkumarhms13@gmail.com**
+- 💬 Ask me about **Core Java, Microservices SQL, AWS**
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
